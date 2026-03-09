@@ -1,0 +1,37 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,Observatory,reference
+2017 Nov 30,3,0.45,,y,VLA,Zhang et al.2024
+2020 Sep 26,3,0.51,,y,VLA,Zhang et al.2024
+2023 Mar 7,3,10.58,0.28,n,VLA,Zhang et al.2024
+2021 Nov 19,1.36,2.59,0.11,n,ASKAP,Zhang et al.2024
+2019 Aug 27–2020 Aug 28,0.89,0.364,,y,ASKAP,Zhang et al.2024
+2021 Jun 25,0.94,1.037,0.014,n,ASKAP,Zhang et al.2024
+2021 Nov 7,0.94,2.223,0.032,n,ASKAP,Zhang et al.2024
+2021 Dec 17,0.86,2.723,0.038,n,ASKAP,Zhang et al.2024
+2023 Jun 14,0.89,3.663,0.093,n,ASKAP,Zhang et al.2024
+2023 Jul 6,0.89,3.744,0.076,n,ASKAP,Zhang et al.2024
+2023 Aug 11,0.86,7.132,0.05,n,ASKAP,Zhang et al.2024
+2023 Aug 30,0.89,8.11,0.18,n,ASKAP,Zhang et al.2024
+2023 Oct 29,0.89,9.01,0.17,n,ASKAP,Zhang et al.2024
+2022 Jan 08,1.66,3.331,0.08,n,ASKAP,Yang et al.2025
+2023 Dec 26,0.89,6.64,0.16,n,ASKAP,Yang et al.2025
+2024 Jan 3,0.94,8.88,0.13,n,ASKAP,Yang et al.2025
+2024 Mar 2,0.89,4.24,0.21,n,ASKAP,Yang et al.2025
+2024 Apr 27,0.89,4.77,0.15,n,ASKAP,Yang et al.2025
+2024 Jun 21,0.89,6.25,0.16,n,ASKAP,Yang et al.2025
+2024 Aug 21,0.89,6.96,0.16,n,ASKAP,Yang et al.2025
+2024 Oct 22,0.89,6.26,0.15,n,ASKAP,Yang et al.2025
+2024 Dec 21,0.89,9.33,0.17,n,ASKAP,Yang et al.2025
+2025 Feb 22,0.89,6.51,0.14,n,ASKAP,Yang et al.2025
+2025 Apr 21,0.89,11.8,0.25,n,ASKAP,Yang et al.2025
+2024 Aug 4,1.56,10.91,0.78,n,VLBA,Yang et al.2025
+2024 Aug 6,4.74,16.023,0.056,n,VLBA,Yang et al.2025
+2024 Aug 6,7.63,11.574,0.044,n,VLBA,Yang et al.2025
+2024 Sep 28,1.51,10.31,0.38,n,e-MERLIN,Yang et al.2025
+2024 Sep 2,5.07,12.21,0.18,n,e-MERLIN,Yang et al.2025
+2024 Dec 29,1.26,14.12,0.38,n,uGMRT,Yang et al.2025
+2025 Jan 25,0.75,5.25,0.28,n,uGMRT,Yang et al.2025
+2025 Jan 26,1.26,20.62,0.65,n,uGMRT,Yang et al.2025
+2025 Feb 21,0.75,5.68,0.35,n,uGMRT,Yang et al.2025
+2025 Feb 20,1.26,23.12,0.27,n,uGMRT,Yang et al.2025
+2025 Mar 24,0.75,4.6,0.53,n,uGMRT,Yang et al.2025
+2025 Mar 22,1.26,19.6,0.26,n,uGMRT,Yang et al.2025
