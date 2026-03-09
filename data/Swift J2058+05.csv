@@ -1,0 +1,9 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2011 June 29,4.5,0.88,0.05,n,VLA,Cenko et al.2012
+2011 June 29,7.9,0.84,0.04,n,VLA,Cenko et al.2012
+2011 July 19,8.4,1.34,0.04,n,VLA,Cenko et al.2012
+2011 July 19,22.5,1.21,0.15,n,VLA,Cenko et al.2012
+2011 August 12,8.4,0.35,0.07,n,VLBA,Pasham et al.2015
+2011 August 12,22,0.58,,y,VLBA,Pasham et al.2015
+2016 May 14,5.5,0.225,0.015,n,ATCA,Brown et al.2017
+2016 May 14,9,0.236,0.013,n,ATCA,Brown et al.2017
