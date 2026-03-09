@@ -1,0 +1,4 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2022/7/2,10,0.015,,y,VLA,Guolo et al. 2024
+2022/9/20,10,0.093,0.007,n,VLA,Guolo et al. 2024
+2022/12/20,10,0.025,,y,VLA,Guolo et al. 2024
