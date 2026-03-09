@@ -1,0 +1,17 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2025-07-08T18:00:00,1.264,0.2629,0.08764,y,GMRT,Li et al.2026
+2025-07-12T21:30:00,1.264,0.0823,0.00594,,GMRT,Li et al.2026
+2025-07-30T19:30:00,0.647,0.1118,0.02611,,GMRT,Li et al.2026
+2025-08-26T19:30:00,1.264,0.163,0.02069,,GMRT,Li et al.2026
+2025-08-28T18:30:00,0.647,0.1794,0.01431,,GMRT,Li et al.2026
+2025-09-09T14:00:00,1.264,0.295,0.04764,,GMRT,Li et al.2026
+2025/7/4T7:37:01,5,1.1,,y,Allen TA,Sfaradi et al.2025a
+2025-07-04T17:37:32,3.06,0.1,0.008,,MeerKAT,Bright et al.2025
+2025-07-08T05:29:18,10,0.49,0.05,,VLA,Sfaradi et al.2025b
+2025-07-06T18:53:41,1.28,0.1,,,MeerKAT,Atri et al.2025
+2025-07-09T02:09:03,97.5,2,,,ALMA,Alexander et al.2025
+2025/7/8 21:05,350,6.3,,y,JCMT,Tetarenko et al. 2025
+2025-07-12T19:30:00,1.26,0.09,,,uGMRT,Balasubramanian et al.2025
+2025-07-21T23:34:37,3.06,0.147,0.019,,MeerKAT,Grollimund et al.2025
+2025/7/4 18:08,3.06,0.12,0.01,,MeerKAT,Levan et al.2025
+2025/7/8 18:43,1.28,0.08,0.01,,MeerKAT,Levan et al.2025
