@@ -1,0 +1,9 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2024/4/4,5.5,0.085,0.019,n,ATCA,Goodwin et al.2025
+2024/4/4,9,0.064,0.019,n,ATCA,Goodwin et al.2025
+2024/10/14,5.5,0.06,0,y,ATCA,Goodwin et al.2025
+2024/10/14,9,0.186,0,y,ATCA,Goodwin et al.2025
+2020/3/26,0.89,0.905,0,y,ASKAP RACS,Goodwin et al.2025
+2021/1/17,1.37,0.521,0,y,ASKAP RACS,Goodwin et al.2025
+2019/6/29,3,0.482,0,y,VLASS,Goodwin et al.2025
+2022/2/8,3,0.384,0,y,VLASS,Goodwin et al.2025
