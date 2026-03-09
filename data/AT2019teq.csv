@@ -1,0 +1,25 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2020 Aug 13,3,0.329,,y,VLA,Cendes et al.2024
+2022 Oct 19,6,0.238,0.008,,VLA,Cendes et al.2024
+2022 Dec 17,1.25,0.492,0.088,,VLA,Cendes et al.2024
+2022 Dec 17,1.75,0.43,0.054,,VLA,Cendes et al.2024
+2022 Dec 17,2.5,0.283,0.051,,VLA,Cendes et al.2024
+2022 Dec 17,3.5,0.268,0.017,,VLA,Cendes et al.2024
+2022 Dec 17,5,0.159,0.023,,VLA,Cendes et al.2024
+2022 Dec 17,7,0.064,0.015,,VLA,Cendes et al.2024
+2022 Dec 17,9,0.069,,y,VLA,Cendes et al.2024
+2022 Dec 17,11,0.046,0.018,,VLA,Cendes et al.2024
+2024 Sept 11,6,0.141,0.01,,VLASS,Ma po
+2025 Sept 23,3,0.371,,y,VLASS,Ma po
+2022 11 26,9,0.16,0.014,,VLASS,Ma po
+2022 11 26,11,0.118,0.013,,VLASS,Ma po
+2022 11 26,5,0.26,0.021,,VLASS,Ma po
+2022 11 26,6,0.217,0.015,,VLASS,Ma po
+2022 11 26,7,0.171,0.013,,VLASS,Ma po
+2023 9 12,11,0.08,,y,VLASS,Ma po
+2023 9 12,9,0.08,,y,VLASS,Ma po
+2023 9 12,5,0.138,0.019,,VLASS,Ma po
+2023 9 12,6,0.115,0.011,,VLASS,Ma po
+2023 9 12,7,0.097,0.019,,VLASS,Ma po
+2023 9 12,3,0.203,0.021,,VLASS,Ma po
+2023 9 12,1.5,0.311,0.029,,VLASS,Ma po
