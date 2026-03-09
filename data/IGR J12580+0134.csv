@@ -1,0 +1,32 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+1995 Feb 27,1.4,26,4,n,VLA/D (NVSS),Perlman et al.2022
+1998.7.26,1.4,34,2,n,VLA archive,Perlman et al.2022
+2016-Mar-16,1.5,171,5,n,VLA/L,Perlman et al.2022
+2016-May-21,1.5,261,5,n,VLA/L,Perlman et al.2022
+2019-Jun-24,1.5,50,5,n,VLA/L,Perlman et al.2022
+2015 Jun 22,1.5195,115,2,n,VLA/A,Perlman et al.2022
+2015 Oct 08,1.5474,65.9,0.6,n,VLBA,Perlman et al.2016
+2011 Dec 30,1.57,211,3,n,VLA/D,Irwin et al.2015
+2012 Mar 30,1.57,241,3,n,VLA/C,Irwin et al.2015
+2012 Jun 11,1.57,219,4,n,VLA/B,Irwin et al.2015
+2016-Mar-16,3,60,3,n,VLA/S,Perlman et al.2022
+2016-May-21,3,167,2,n,VLA/S,Perlman et al.2022
+2019-Apr-21,3,21,2,n,VLA/S,Perlman et al.2022
+2015 Oct 08,4.9795,14,0.1,n,VLBA,Perlman et al.2016
+2015 Jun 22,5.499,36.3,0.3,n,VLA/A,Perlman et al.2022
+2011 Dec 19,6,425,3,n,VLA/D,Irwin et al.2015
+2012 Feb 24,6,355,1,n,VLA/C,Irwin et al.2015
+2015-Jul-28,6,33.6,0.2,n,VLA/C,Perlman et al.2022
+2016-Mar-16,6,27,2,n,VLA/C,Perlman et al.2022
+2016-May-21,6,61,2,n,VLA/C,Perlman et al.2022
+2015-Jul-06,9,22.7,0.3,n,VLA/X,Perlman et al.2022
+2015-Jul-14,9,17.1,0.2,n,VLA/X,Perlman et al.2022
+2011.01.16,30,427,,y,PLANCK,Yuan et al.2016
+2011.01.16,44,692,,y,PLANCK,Yuan et al.2016
+2011.01.16,70,501,,y,PLANCK,Yuan et al.2016
+2011.01.16,100,635,103,n,PLANCK,Yuan et al.2016
+2011.01.16,143,726,37,n,PLANCK,Yuan et al.2016
+2011.01.16,217,615,42,n,PLANCK,Yuan et al.2016
+2011.01.16,353,419,107,n,PLANCK,Yuan et al.2016
+2011.01.16,545,456,144,n,PLANCK,Yuan et al.2016
+2011.01.16,857,579,143,n,PLANCK,Yuan et al.2016
