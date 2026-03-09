@@ -1,0 +1,17 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2015 Nov 14,5.5,0.58,0.23,n,ATCA 6A,Alexander et al.2017
+2015 Nov 14,9,0.38,0.05,n,ATCA 6A,Alexander et al.2017
+2015 Dec 1,1.5,1.19,0.24,n,ATCA 1.5A,Alexander et al.2017
+2015 Dec 1,2.1,1.02,0.23,n,ATCA 1.5A,Alexander et al.2017
+2015 Dec 1,2.7,0.87,0.23,n,ATCA 1.5A,Alexander et al.2017
+2015 Dec 1,18,0.13,0.035,n,ATCA 1.5A,Alexander et al.2017
+2016 May 9,1.7,0.89,0.23,n,ATCA 6A,Alexander et al.2017
+2016 May 9,2.1,0.63,0.16,n,ATCA 6A,Alexander et al.2017
+2016 May 9,2.8,0.54,0.17,n,ATCA 6A,Alexander et al.2017
+2016 May 9,5.5,0.4,0.16,n,ATCA 6A,Alexander et al.2017
+2016 May 9,9,0.25,0.03,n,ATCA 6A,Alexander et al.2017
+2016 Aug 23,1.6,0.65,0.16,n,ATCA 6C,Alexander et al.2017
+2016 Aug 23,2.1,0.58,0.14,n,ATCA 6C,Alexander et al.2017
+2016 Aug 23,2.7,0.55,0.15,n,ATCA 6C,Alexander et al.2017
+2016 Aug 23,5.5,0.42,0.18,n,ATCA 6C,Alexander et al.2017
+2016 Aug 23,9,0.23,0.04,n,ATCA 6C,Alexander et al.2017
