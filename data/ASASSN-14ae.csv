@@ -1,0 +1,22 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2016 Mar 12,5,0.033,,y,VLA,Cendes et al.2024
+2019 Nov 19,3,0.42,,y,VLA,Cendes et al.2024
+2020 May 25,6,0.09,0.015,n,VLA,Cendes et al.2024
+2021 Jun 12,3,0.334,0.038,n,VLA,Cendes et al.2024
+2021 Jun 12,5,0.222,0.018,n,VLA,Cendes et al.2024
+2021 Jun 12,7,0.169,0.007,n,VLA,Cendes et al.2024
+2021 Jun 12,9,0.155,0.01,n,VLA,Cendes et al.2024
+2021 Jun 12,11,0.15,0.001,n,VLA,Cendes et al.2024
+2021 Dec 4,3,0.47,,y,VLA,Cendes et al.2024
+2022 Dec 11,1.25,3.12,,y,VLA,Cendes et al.2024
+2022 Dec 11,1.75,0.72,0.041,n,VLA,Cendes et al.2024
+2022 Dec 11,2.5,0.68,0.029,n,VLA,Cendes et al.2024
+2022 Dec 11,3.5,0.604,0.017,n,VLA,Cendes et al.2024
+2022 Dec 11,5,0.418,0.08,n,VLA,Cendes et al.2024
+2022 Dec 11,7,0.446,0.011,n,VLA,Cendes et al.2024
+2022 Dec 11,9,0.382,0.02,n,VLA,Cendes et al.2024
+2022 Dec 11,11,0.361,0.025,n,VLA,Cendes et al.2024
+2022 Dec 11,13.5,0.347,0.015,n,VLA,Cendes et al.2024
+2022 Dec 11,16.5,0.337,0.022,n,VLA,Cendes et al.2024
+2022 Dec 11,20,0.303,0.015,n,VLA,Cendes et al.2024
+2022 Dec 11,24,0.343,0.014,n,VLA,Cendes et al.2024
