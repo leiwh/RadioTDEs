@@ -1,0 +1,32 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2019 May 25,3,0.7,,y,VLASS,Somalwar et al. 2025
+2021 October 9,3,1.48,0.14,,VLASS,Somalwar et al. 2025
+2022/2/2,1.5,0.953,0.09,,VLA,this work
+2022/2/2,3,1.485,0.09,,VLA,this work
+2022/2/2,3.5,1.717,0.11,,VLA,this work
+2022/2/2,4.5,1.906,0.11,,VLA,this work
+2022/2/2,5,1.897,0.1,,VLA,this work
+2022/2/2,5.5,1.833,0.12,,VLA,this work
+2022/2/2,6.5,1.656,0.12,,VLA,this work
+2022/2/2,7.5,1.535,0.12,,VLA,this work
+2022/2/2,8.5,1.37,0.11,,VLA,this work
+2022/2/2,9,1.259,0.08,,VLA,this work
+2022/2/2,9.5,1.1,0.07,,VLA,this work
+2022/2/2,10.5,1.006,0.08,,VLA,this work
+2022/2/2,11,0.884,0.06,,VLA,this work
+2022/2/2,11.5,0.825,0.06,,VLA,this work
+2023/5/26,2.5,0.737,0.05,,VLA,this work
+2023/5/26,3,0.611,0.04,,VLA,this work
+2023/5/26,3.5,0.51,0.04,,VLA,this work
+2023/5/26,4.5,0.427,0.03,,VLA,this work
+2023/5/26,5,0.441,0.03,,VLA,this work
+2023/5/26,5.5,0.359,0.02,,VLA,this work
+2023/5/26,6.5,0.297,0.03,,VLA,this work
+2023/5/26,7.5,0.247,0.03,,VLA,this work
+2023/5/26,8.5,0.146,0.02,,VLA,this work
+2023/5/26,9.5,0.192,0.02,,VLA,this work
+2023/5/26,10.5,0.181,0.02,,VLA,this work
+2023/5/26,11.5,0.147,0.02,,VLA,this work
+2023/5/27,22.5,0.097,0.01,,VLA,this work
+2023 June 1,95.7,0.06,,y,NOEMA,Somalwar et al. 2025
+2024/7/9,3,0.381,,y,VLA,this work
