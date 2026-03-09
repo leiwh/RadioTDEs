@@ -1,0 +1,15 @@
+UTDate,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+2022 Apr 16,0.82,0.29,0.03,n,MeerKAT,Cendes et al.2024
+2023 Jan 5,0.82,0.231,0.025,n,MeerKAT,Cendes et al.2024
+2022 Nov 24,0.824,0.252,0.05,n,MeerKAT,Cendes et al.2024
+2021 May 1,1.36,0.193,0.02,n,MeerKAT,Cendes et al.2024
+2022 Apr 16,1.36,0.215,0.023,n,MeerKAT,Cendes et al.2024
+2022 Dec 3,1.36,0.249,0.023,n,MeerKAT,Cendes et al.2024
+2020 May 9,1.42,0.3,,y,ASKAP,Cendes et al.2024
+2020 May 16,1.42,0.3,,y,ASKAP,Cendes et al.2024
+2021 Apr 9,1.42,0.3,,y,ASKAP,Cendes et al.2024
+2022 Apr 9,2.1,0.156,,y,ATCA,Cendes et al.2024
+2022 Apr 9,5.5,0.057,,y,ATCA,Cendes et al.2024
+2022 Apr 9,9,0.045,,y,ATCA,Cendes et al.2024
+2022 Apr 9,17,0.087,,y,ATCA,Cendes et al.2024
+2022 Apr 9,19,0.126,,y,ATCA,Cendes et al.2024
