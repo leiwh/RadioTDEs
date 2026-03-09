@@ -1,0 +1,10 @@
+MJD,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+59077.86472,15,0.027,0,y,VLA,Liodakis et al.2023
+59243.4017,5,0.087,0.012,n,VLA,Liodakis et al.2023
+59243.4017,7,0.036,0.009,n,VLA,Liodakis et al.2023
+59273.25564,1.4,0.086,0.03,n,VLA,Liodakis et al.2023
+59273.23174,2.5,0.103,0.025,n,VLA,Liodakis et al.2023
+59273.23174,3.5,0.078,0.016,n,VLA,Liodakis et al.2023
+59273.20547,5,0.043,0.009,n,VLA,Liodakis et al.2023
+59273.20547,7,0.036,0.011,n,VLA,Liodakis et al.2023
+59901,6,0.086,0.008,n,VLA,Cendes et al.2024
