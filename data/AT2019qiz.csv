@@ -1,0 +1,26 @@
+MJD,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+58125.7,3,0.36,,y,VLASS,Anumarlapudi et al.2024
+58600.8,0.8875,1.55,,y,RACS-low,Anumarlapudi et al.2024
+59141.9,3,1.1,0.26,n,VLASS,Anumarlapudi et al.2024
+59235,1.3675,1.33,0.17,n,RACS-mid,Anumarlapudi et al.2024
+59586.1,1.6555,1.25,0.18,n,RACS-high,Anumarlapudi et al.2024
+59683.8,0.8875,1.19,0.18,n,RACS-low,Anumarlapudi et al.2024
+60027.5,3,0.92,0.21,n,VLASS,Anumarlapudi et al.2024
+60132.6,0.8875,9.31,,y,RACS-low,Anumarlapudi et al.2024
+60190.4,0.8875,2.11,,y,RACS-low,Anumarlapudi et al.2024
+58752.41169,15,0.033,0.01,n,VLA/19A-013,Alexander et al.2026
+58773.36964,9,0.093,0.017,n,VLA/19A-013,Alexander et al.2026
+58799.36227,5,0.15,0.047,n,VLA/19A-013,Alexander et al.2026
+58799.36227,9,0.65,0.06,n,VLA/19A-013,Alexander et al.2026
+58823.29204,5,0.4,0.06,n,VLA/19A-013,Alexander et al.2026
+58823.29204,9,1.33,0.09,n,VLA/19A-013,Alexander et al.2026
+58871.11659,5,1.41,0.1,n,VLA/19A-013,Alexander et al.2026
+58871.11659,9,2.4,0.14,n,VLA/19A-013,Alexander et al.2026
+58981.73736,5,1.64,0.13,n,VLA/20A-372,Alexander et al.2026
+58981.73736,9,0.81,0.14,n,VLA/20A-372,Alexander et al.2026
+59213.07616,5,1.366,0.085,n,VLA/20A-372,Alexander et al.2026
+59213.07616,9,0.695,0.043,n,VLA/20A-372,Alexander et al.2026
+59378.77265,5,0.48,0.08,n,VLA/21A-303,Alexander et al.2026
+59378.77265,9,0.26,0.03,n,VLA/21A-303,Alexander et al.2026
+59916,1.285,0.618,0.045,n,MKT-22085,Alexander et al.2026
+60028.00797,3,0.7,0.22,n,VLASS 3.1,Alexander et al.2026
