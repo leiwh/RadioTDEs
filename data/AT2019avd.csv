@@ -1,0 +1,23 @@
+MJD,Frequency(GHz),Flux density(mJy),Flux density error(mJy),upperlimit,instrument,reference
+51955,1.4,0.438,,y,FIRST,Wang et al.2023
+58075,3,0.404,,y,VLASS,Wang et al.2023 & Goodwin et al.2025
+59071,3,0.607,0.17,n,VLASS,Wang et al.2023 & Goodwin et al.2025
+58994.9,9,0.3,0.012,n,VLA,Wang et al.2023
+58994.9,11.1,0.247,0.011,n,VLA,Wang et al.2023
+59387.9,1.55,0.173,0.026,n,VLBA,Wang et al.2023
+59448.8,4.98,0.566,0.035,n,VLBA,Wang et al.2023
+60403,5,1.047,0.059,n,ATCA,Goodwin et al.2025
+60403,5.5,0.989,0.052,n,ATCA,Goodwin et al.2025
+60403,6,0.982,0.062,n,ATCA,Goodwin et al.2025
+60403,8.5,0.772,0.045,n,ATCA,Goodwin et al.2025
+60403,9,0.771,0.04,n,ATCA,Goodwin et al.2025
+60403,9.5,0.712,0.043,n,ATCA,Goodwin et al.2025
+60598,5,0.791,0.024,n,ATCA,Goodwin et al.2025
+60598,5.5,0.756,0.016,n,ATCA,Goodwin et al.2025
+60598,6,0.735,0.02,n,ATCA,Goodwin et al.2025
+60598,8.5,0.652,0.025,n,ATCA,Goodwin et al.2025
+60598,9,0.594,0.016,n,ATCA,Goodwin et al.2025
+60598,9.5,0.536,0.018,n,ATCA,Goodwin et al.2025
+59232,1.37,0.862,0.221,n,ASKAP RACS,Goodwin et al.2025
+60310,0.94,1.335,0.277,n,ASKAP RACS,Goodwin et al.2025
+59968,3,2.8,0.25,n,VLASS,Goodwin et al.2025
